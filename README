@@ -1,0 +1,3 @@
+#graph-checks
+
+Uses breadth-first search to check if a graph is connected and bipartite.
